@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967148069103",
+    "firebase_url": "https://pucapp-1820c.firebaseio.com",
+    "project_id": "pucapp-1820c",
+    "storage_bucket": "pucapp-1820c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967148069103:android:b4b55f5001cef4aa",
+        "android_client_info": {
+          "package_name": "com.example.puc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967148069103-kf6om8tc3eeg0i580lfgu9fili7o365t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fngTjUh_CJ1VKm0OiFQbOvBVS-5nvow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967148069103-kf6om8tc3eeg0i580lfgu9fili7o365t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
